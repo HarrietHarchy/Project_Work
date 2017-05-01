@@ -1,0 +1,76 @@
+
+body{
+background-color:#00FFFF;
+}
+
+p{
+font-family:'Helvetica',sans-serif;
+font-size:14px;
+line-height:23px;
+margin: 0 0 23px 0;
+font-weight:normal;
+color:766151;
+}
+h2{font-family:'Helvetica',sans-serif;
+ font-weight:normal;
+ font-size:21px;
+ line-height:23px;
+ margin:0 0 23px 0;
+ color:EFEFEF;
+ }
+ footer{font-family:'Helvetica',sans-serif;
+ font-weight:normal;
+ font-size:14px;
+ line-height:23px;
+ margin:0 0 23px 0;
+ color:B5B5B5;
+ }
+ #wrapper{
+ position:relative;
+ width: 1000px;
+ height:500px;
+ }
+ #inner{
+ left:center;
+ right:center;
+ position:relative;
+ width:50%;
+ height:50%;
+ }
+ li
+{
+display:inline;
+}
+ 
+navbar
+{
+height:50px;
+}
+
+.Privacy Policy{
+float:left;
+text-align: left;
+}
+.copyright{
+float:center;
+text-align: center;
+}
+.All Rights Reserved{
+float:right;
+text-align: right;
+}
+
+footerline{
+width: 100%;
+overflow: hidden;
+margin: 5px auto 10px auto
+text-align: center;
+}
+footer{
+max-width:980px;
+text-align:center;
+margin: auto;
+}
+ 
+
+ 

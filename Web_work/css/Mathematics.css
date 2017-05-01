@@ -1,0 +1,12 @@
+.my-left
+{
+background-color:#5bc0de;
+}
+<div class="col-md-4 my-left">
+</div>
+.my-right
+{
+background-color:#f0ad4e;
+}
+<div class="col-md-8 my-right">
+</div>

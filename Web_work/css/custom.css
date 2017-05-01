@@ -1,0 +1,51 @@
+
+body{
+background-color:#C7D0D5;
+}
+
+p{
+font-family:'Helvetica',sans-serif;
+font-size:14px;
+line-height:23px;
+margin: 0 0 23px 0;
+font-weight:normal;
+color:766151;
+}
+h2{font-family:'Helvetica',sans-serif;
+ font-weight:normal;
+ font-size:21px;
+ line-height:23px;
+ margin:0 0 23px 0;
+ color:EFEFEF;
+ }
+ footer{font-family:'Helvetica',sans-serif;
+ font-weight:normal;
+ font-size:14px;
+ line-height:23px;
+ margin:0 0 23px 0;
+ color:B5B5B5;
+ }
+ #wrapper{
+ position:relative;
+ width: 1000px;
+ height:500px;
+ }
+ #inner{
+ left:center;
+ right:center;
+ position:relative;
+ width:50%;
+ height:50%;
+ }
+ li
+{
+display:inline;
+}
+ 
+navbar
+{
+height:50px;
+}
+ 
+
+ 
